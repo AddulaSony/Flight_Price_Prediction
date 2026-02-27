@@ -60,6 +60,7 @@ pip install -r requirements.txt
 Run the app
 
 streamlit run app.py
+
 📊 Features
 
 Data cleaning and preprocessing
